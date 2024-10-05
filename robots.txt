@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://klasue.github.io/zgc/sitemap.zgc.gz
